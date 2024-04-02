@@ -31,7 +31,7 @@
         <span>JavaScript</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/angular.png">
+        <img height="64px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo-thumbnail.png">
         <br>
         <span>Angular</span>
       </td>
@@ -93,6 +93,11 @@
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
+        <br>
+        <span>Git</span>
+      </td>
+        <td width="25%" align="center">
+        <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png">
         <br>
         <span>Git</span>
       </td>
