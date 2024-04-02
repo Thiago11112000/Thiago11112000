@@ -31,7 +31,7 @@
         <span>JavaScript</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/cypress.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/react.png">
         <br>
         <span>Angular</span>
       </td>
@@ -40,7 +40,7 @@
       <td width="25%" align="center">
         <img height="64px" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
         <br>
-        <span>React</span>
+        <span>Cypress</span>
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
@@ -87,14 +87,14 @@
         <span>Ionic Framework<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
+        <img height="64px" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
         <br>
-        <span>Photoshop</span>
+        <span>Prime Faces</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLkhAztbj7q7yB2JL5vXV7KMy5tIM3M_Gjqy7-Yt8tg&s">
         <br>
-        <span>Illustrator</span>
+        <span>Cucumber</span>
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
