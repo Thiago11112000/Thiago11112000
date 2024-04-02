@@ -4,7 +4,7 @@
   <samp>
     Sou Thiago, um desenvolvedor de software apaixonado por tecnologia e inovação e também analista de qualiade(QA).
     <br><br>
-    Atualmente, estou trabalhando com tecnologias como Angular, JavaScript, CSS, HTML5, Node.js, Type Script, Selenium, Cypress, BDD, Spring Boot, JWT, JAVA, JSF, Prime-Faces
+    Atualmente, estou trabalhando com tecnologias como Angular, JavaScript, CSS, HTML5, Node.js, Type Script, Selenium, Cypress, BDD, Spring Boot, JWT, JAVA, JSF, Prime-Faces, Angular Material  design
     
     <br><br>
     Quando não estou codificando, gosto de jogar, ver series e explorar novas tecnologias.
@@ -31,7 +31,7 @@
         <span>JavaScript</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/react.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/angular.png">
         <br>
         <span>Angular</span>
       </td>
@@ -53,9 +53,9 @@
         <span>Sass<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+        <img height="64px" src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png">
         <br>
-        <span>Bootstrap</span>
+        <span>Material Design</span>
       </td>
     </tr>
     <tr>
@@ -82,17 +82,12 @@
     </tr>
     <tr>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png">
-        <br>
-        <span>Ionic Framework<span>
-      </td>
-      <td width="25%" align="center">
         <img height="64px" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
         <br>
         <span>Prime Faces</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLkhAztbj7q7yB2JL5vXV7KMy5tIM3M_Gjqy7-Yt8tg&s">
+        <img height="64px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
         <br>
         <span>Cucumber</span>
       </td>
