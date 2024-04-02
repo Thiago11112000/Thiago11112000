@@ -4,9 +4,6 @@
   <samp>
     Sou Thiago, um desenvolvedor de software apaixonado por tecnologia e inovação e também analista de qualiade(QA).
     Atualmente, estou trabalhando com tecnologias como Angular, JavaScript, CSS, HTML5, Node.js, Type Script, Selenium, Cypress, BDD, Spring Boot, JWT, JAVA, JSF, Prime-Faces, Angular Material  design, dentre muitas outras....
-    
-    <br><br>
-    Quando não estou codificando, gosto de jogar, ver series e explorar novas tecnologias.
   </samp>
 </p>
 
