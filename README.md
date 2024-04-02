@@ -1,8 +1,8 @@
 ### Olá, mundo! 👋
 <p align="center">
-  <br><br>
+  
   <samp>
-    Sou Thiago, um desenvolvedor de software apaixonado por tecnologia e inovação.
+    Sou Thiago, um desenvolvedor de software apaixonado por tecnologia e inovação e também analista de qualiade(QA).
     <br><br>
     Atualmente, estou trabalhando com tecnologias como Angular, JavaScript, CSS, HTML5, Node.js, Type Script, Selenium, Cypress, BDD, Spring Boot, JWT, JAVA, JSF, Prime-Faces
     
@@ -60,9 +60,9 @@
     </tr>
     <tr>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/php.png">
+        <img height="64px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
         <br>
-        <span>PHP</span>
+        <span>Selenium</span>
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
