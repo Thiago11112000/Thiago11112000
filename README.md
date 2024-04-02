@@ -99,7 +99,7 @@
         <td width="25%" align="center">
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png">
         <br>
-        <span>Git</span>
+        <span>Microsoft SQL Server</span>
       </td>
     </tr>
   </tbody>
