@@ -94,6 +94,9 @@
       </td>
         <td width="25%" align="center">
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png">
+             <br>
+        <span>Microsoft SQL Server</span>
+      </td>
   </tbody>
 </table>
 📈 Minhas estatísticas do GitHub
