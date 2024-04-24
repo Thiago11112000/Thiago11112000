@@ -36,7 +36,7 @@ Claro, vou ajustar a tabela para que o ícone do .NET fique posicionado corretam
 </tr>
 <tr>
 <td width="25%" align="center">
-<img height="64px" src="https://asset.brandfetch.io/idIq\_kF0rb/idv3zwmSiY.jpeg">
+<img height="64px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
 <br>
 <span>Cypress</span>
 </td>
