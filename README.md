@@ -9,102 +9,103 @@
   </samp>
 </p>
 
-## Softwares, linguagens, frameworks e bibliotecas que utilizo:
+Claro, vou ajustar a tabela para que o ícone do .NET fique posicionado corretamente na última linha. Aqui está a tabela com o ajuste:
 <table>
-  <tbody>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
-        <br>
-        <span>HTML5</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/css3.png">
-        <br>
-        <span>CSS3</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
-        <br>
-        <span>JavaScript</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo-thumbnail.png">
-        <br>
-        <span>Angular</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-        <br>
-        <span>Cypress</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
-        <br>
-        <span>Node.js</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/sass.png">
-        <br>
-        <span>Sass<span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png">
-        <br>
-        <span>Material Design</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
-        <br>
-        <span>Selenium</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-        <br>
-        <span>Java</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-        <br>
-        <span>Spring<span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/wordpress.png">
-        <br>
-        <span>Wordpress</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
-        <br>
-        <span>Prime Faces</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
-        <br>
-        <span>Cucumber</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
-        <br>
-        <span>Git</span>
-      </td>
-        <td width="25%" align="center">
-        <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png">
-             <br>
-        <span>Microsoft SQL Server</span>
-      </td>
-        <td width="25%" align="center">
-        <img height="64px" src="https://api.nuget.org/v3-flatcontainer/dotnet-symbol/1.0.415602/icon">
-            <br>
-        <span>.NETr</span>
-      </td>
-  </tbody>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
+<br>
+<span>HTML5</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/css3.png">
+<br>
+<span>CSS3</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
+<br>
+<span>JavaScript</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://w7.pngwing.com/pngs/14/568/png-transparent-angularjs-logo-javascript-security-token-angle-triangle-logo-thumbnail.png">
+<br>
+<span>Angular</span>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<img height="64px" src="https://asset.brandfetch.io/idIq\_kF0rb/idv3zwmSiY.jpeg">
+<br>
+<span>Cypress</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+<br>
+<span>Node.js</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/sass.png">
+<br>
+<span>Sass<span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png">
+<br>
+<span>Material Design</span>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<img height="64px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
+<br>
+<span>Selenium</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<br>
+<span>Java</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+<br>
+<span>Spring<span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/wordpress.png">
+<br>
+<span>Wordpress</span>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<img height="64px" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
+<br>
+<span>Prime Faces</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
+<br>
+<span>Cucumber</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
+<br>
+<span>Git</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png">
+<br>
+<span>Microsoft SQL Server</span>
+</td>
+<td width="25%" align="center">
+<img height="64px" src="https://api.nuget.org/v3-flatcontainer/dotnet-symbol/1.0.415602/icon">
+<br>
+<span>.NET</span>
+</td>
+</tr>
+</tbody>
 </table>
 📈 Minhas estatísticas do GitHub
 <p align="center">
