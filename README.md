@@ -99,10 +99,6 @@ Claro, vou ajustar a tabela para que o ícone do .NET fique posicionado corretam
 <br>
 <span>Microsoft SQL Server</span>
 </td>
-<td width="25%" align="center">
-<img height="64px" src="https://api.nuget.org/v3-flatcontainer/dotnet-symbol/1.0.415602/icon">
-<br>
-<span>.NET</span>
 </td>
 </tr>
 </tbody>
