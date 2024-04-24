@@ -100,9 +100,9 @@
         <span>Microsoft SQL Server</span>
       </td>
         <td width="25%" align="center">
-        <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotnet.microsoft.com%2Fen-us%2F&psig=AOvVaw25wtqsDm8FsgncD5K-g76Y&ust=1714048141111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND88IXt2oUDFQAAAAAdAAAAABAP">
-             <br>
-        <span>Microsoft SQL Server</span>
+        <img height="64px" src="https://api.nuget.org/v3-flatcontainer/dotnet-symbol/1.0.415602/icon">
+            <br>
+        <span>.NETr</span>
       </td>
   </tbody>
 </table>
