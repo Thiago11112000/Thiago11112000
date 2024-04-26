@@ -5,7 +5,7 @@
     Sou Thiago, um desenvolvedor de software apaixonado por tecnologia e inovação, além de atuar como analista de qualidade (QA). Minha trajetória profissional é marcada por um constante aprendizado e adaptação às mais recentes tendências e ferramentas do mercado.
     Atualmente, trabalho com uma ampla gama de tecnologias, como Angular, JavaScript, CSS, HTML5, Node.js, TypeScript, Selenium, Cypress, BDD, Spring Boot, JWT, Java, JSF, PrimeFaces, Angular Material Design, entre muitas outras. No entanto, não me limito a esse conjunto de     habilidades. Sou um verdadeiro generalista, sempre disposto a expandir meus horizontes e adquirir novos conhecimentos.
     Nesse espírito de aprendizado contínuo, tenho me dedicado ao estudo de tecnologias como .NET e Entity Framework, buscando constantemente me atualizar e aprimorar minhas competências. Acredito que essa mentalidade aberta e flexível é essencial em um campo tão dinâmico       quanto a tecnologia da informação, onde as inovações surgem a todo momento.
-  Combinando habilidades técnicas sólidas com uma mente curiosa e ávida por novos desafios, busco entregar soluções de alta qualidade, aplicando as melhores práticas e metodologias de desenvolvimento e teste de software. Essa abordagem generalista e comprometida com a         excelência me permite atuar de forma eficiente em diversos projetos, agregando valor através da entrega de produtos confiáveis e inovadores.
+  Combinando habilidades técnicas sólidas com uma mente curiosa e ávida por novos desafios, busco entregar soluções de alta qualidade, aplicando as melhores práticas e metodologias de desenvolvimento e teste de software. Essa abordagem generalista e comprometida com a  excelência me permite atuar de forma eficiente em diversos projetos, agregando valor através da entrega de produtos confiáveis e inovadores.
   </samp>
 </p>
 <table>
@@ -103,6 +103,11 @@
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET">
         <br>
         <span>.NET</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap">
+        <br>
+        <span>Bootstrap</span>
       </td>
     </tr>
   </tbody>
